@@ -1,0 +1,1292 @@
+INFO:root:Connection successful
+INFO:root:Connection Closed
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:root:Connection Closed
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask_restful\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\views.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:36] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:36] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:36] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:36] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:36] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:46] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:46] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:46] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:18:46] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 20:21:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:16] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:root:Connection successful
+INFO:root:Connection Closed
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:25] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:root:Connection successful
+INFO:root:Connection Closed
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:28] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:28] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:28] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:28] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:28] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:01:29] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:02:39] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:02:40] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:02:40] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:02:40] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:02:40] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:02:40] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\json\\encoder.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:03:34] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:03:35] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:03:35] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:03:35] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:03:35] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:03:35] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:06:39] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:06:41] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:06:41] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:06:41] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:06:41] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:06:41] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:37] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:37] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:37] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:37] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:37] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:07:38] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:08:54] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:09:46] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:10:33] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:root:Connection Closed
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:16:13] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:19:26] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:20:23] "GET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:24:51] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:27:49] "[35m[1mGET /create?qPDg9oz6JTGZuGgRT7Ix3Z1SefzwnQr7=a5XCeOKX7EXF0f9HjCwM07GsZG3nV45U HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:33:20] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:33:45] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:42] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:42] "GET /create?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:42] "GET /create?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:42] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:42] "GET /create?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:42] "GET /create?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:36:50] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:37:56] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:40:49] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:41:36] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:42:04] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:44:38] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:45:22] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:45:49] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:46:51] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:48:51] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:50:07] "GET /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:50:42] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:51:28] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:51:43] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:52:33] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:52:37] "[35m[1mGET /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 21:53:07] "GET /create HTTP/1.1" 200 -
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 22:00:57] "GET /read HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 22:02:13] "GET /read HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:42:06] "[31m[1mGET /create HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:42:22] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:46:38] "[35m[1mPOST /create?STUDENT_ID=102&FIRST_NAME=Mark&LAST_NAME=Waugh&DOB=1990-10-10&AMOUNT_DUE=200 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:48:15] "[35m[1mPOST /create?STUDENT_ID=102&FIRST_NAME=Mark&LAST_NAME=Waugh&DOB=1990-10-10&AMOUNT_DUE=200 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:48:49] "[35m[1mPOST /create?STUDENT_ID=102&FIRST_NAME=Mark&LAST_NAME=Waugh&DOB=1990-10-10&AMOUNT_DUE=200 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:50:03] "[35m[1mPOST /create?STUDENT_ID=102&FIRST_NAME=Mark&LAST_NAME=Waugh&DOB=1990-10-10&AMOUNT_DUE=200 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:51:40] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:52:03] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:52:30] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:54:06] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:55:40] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:56:50] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:58:14] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Mar/2023 23:59:36] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 00:02:46] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:06:09] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\werkzeug\\datastructures.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:08:09] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:09:18] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:16:16] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:17:31] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:18:24] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:18:43] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:21] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:19:32] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:20] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:22:26] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:26:02] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:26:46] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:31:44] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:35:36] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:36:11] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:36:45] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:37:46] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:38:40] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:50:48] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:55:52] "[35m[1mPOST /create HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 11:58:16] "POST /create HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 12:10:37] "[35m[1mPOST /create HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:root:Connection successful
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:05:27] "[31m[1mGET /create HTTP/1.1[0m" 405 -
+INFO:root:{'Student_ID': 101, 'First_name': 'Tahseen', 'Second_name': 'Siddiqi', 'DOB': '1991-08-18', 'Amount_Due': 100}
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:05:31] "GET /read HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:05:39] "[33mGET /read/101 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:05:43] "[33mGET /read/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:{'Student_ID': 101, 'First_name': 'Tahseen', 'Second_name': 'Siddiqi', 'DOB': '1991-08-18', 'Amount_Due': 100}
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:45] "GET /read HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\_compat.py', reloading
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:50] "[35m[1mGET /read HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:50] "GET /read?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:50] "GET /read?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:50] "GET /read?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:50] "GET /read?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:07:50] "GET /read?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:09:07] "[33mPOST /create/101 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:09:27] "[33mPOST /create/101 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:10:02] "[31m[1mPOST /create/101 HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:10:09] "PUT /create/101 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:11:00] "[35m[1mPUT /create/101 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:11:52] "[31m[1mPUT /create/101 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:12:01] "PUT /create/101 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:24:25] "[31m[1mDELETE /create/102 HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:24:37] "DELETE /delete/102 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\schema.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:51:54] "[31m[1mDELETE /return HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:52:00] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:52:18] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:{'Student_ID': 101, 'First_name': 'Tahseen', 'Second_name': 'Siddiqi', 'DOB': '1995-12-12', 'Amount_Due': 100}
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:53:19] "GET /read HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:{'Student_ID': 101, 'First_name': 'Tahseen', 'Second_name': 'Siddiqi', 'DOB': '1995-12-12', 'Amount_Due': 100}
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:06] "GET /read HTTP/1.1" 200 -
+INFO:root:{'Student_ID': 101, 'First_name': 'Tahseen', 'Second_name': 'Siddiqi', 'DOB': '1995-12-12', 'Amount_Due': 100}
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:35] "GET /read HTTP/1.1" 200 -
+INFO:root:{'Student_ID': 101, 'First_name': 'Tahseen', 'Second_name': 'Siddiqi', 'DOB': '1995-12-12', 'Amount_Due': 100}
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:36] "GET /read HTTP/1.1" 200 -
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:50] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:51] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:51] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:51] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:51] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:51] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:53] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:53] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:53] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:53] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:53] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:55:53] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:30] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:31] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:31] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:57:31] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\anaconda3\\Lib\\json\\encoder.py', reloading
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:13] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:13] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:13] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:13] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:13] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:13] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:19] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:19] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:19] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:19] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:19] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:19] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:20] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:20] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:20] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:20] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:20] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 13:58:20] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:35] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:36] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:36] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:36] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:36] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:36] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:37] "[35m[1mGET /return HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:38] "GET /return?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:38] "GET /return?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:38] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:38] "GET /return?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:00:38] "GET /return?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:11:14] "GET /return HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Mar/2023 14:12:07] "GET /return HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:root:Connection successful
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-751-929
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\Assignment2-AI-in-ES\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\Assignment2-AI-in-ES\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\Assignment2-AI-in-ES\\dbconnection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\imtah\\IdeaProjects\\Assignment_2_Flask\\Assignment2-AI-in-ES\\dbconnection.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
